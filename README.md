@@ -28,7 +28,7 @@ RecycleVisionAI is a Python-based system developed during a hackathon, aimed at 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/RecycleVisionAI.git
+   git clone https://github.com/SaiThihan/RecycleVisionAI.git
    cd RecycleVisionAI
    ```
 
