@@ -1,0 +1,24 @@
+# Ignore all files in the images/test and images/train directories
+images/test/*
+images/train/*
+
+# Allow the directories themselves to be tracked
+!images/test/.gitignore
+!images/train/.gitignore
+
+# Ignore the virtual environment directory
+myenv/
+
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+
+# Ignore log files
+*.log
+
+# Ignore IDE configurations
+.vscode/
+.idea/
+
+# Ignore OS generated files
+.DS_Store
